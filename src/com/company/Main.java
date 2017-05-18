@@ -48,7 +48,7 @@ public class Main {
 
         System.out.println("Jest elektryczna? " + type.isElectricOrNo());
         System.out.println("ilosc strun: " + type.getIlstun());
-        System.out.println("kolor: " + type.getColour())
+        System.out.println("kolor: " + type.getColour());
     }
 
 }
